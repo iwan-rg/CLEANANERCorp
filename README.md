@@ -1,1 +1,1 @@
-# CLEANANERCorp:  Identifying Incorrect Labels in the ANERcorp Dataset 
+# CLEANANERCorp:  Identifying and Correcting Incorrect Labels in the ANERcorp Dataset 
