@@ -11,3 +11,7 @@ Label errors are a common issue in machine learning datasets, particularly for t
       booktitle={Proceedings of the 6th Workshop on Open-Source Arabic Corpora and Processing Tools},
       year={2024}
 }
+# Acknoledgment
+~~~
+We would like to acknowledge Dr. Mustafa Jarrar, Sana Ghanem and Tymaa Hammouda from Wojood to thier contribution in explaining Wojood guidelines and annotating the ANERCorp with Wojood model.
+
